@@ -1,0 +1,8 @@
+*** Service Architecture ***
+
+1) User submits a 'Find my item' request
+2) Prompt for payment, user must pay to continue.
+3) Request goes into our system and we pick good candidates for matches
+4) Manual follow-up on our end, find the item
+5) If we find it, connect the user and the taxi company
+5b) If we dont find it, refund user
